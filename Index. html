@@ -686,7 +686,7 @@ function applyLogo() {
   storeIcon.style.display = 'none';
   storeImg.src = store.logo;
   storeImg.style.display = 'block';
-  // Admin header
+ 
   const adminIcon = document.getElementById('admin-logo-icon');
   const adminImg = document.getElementById('admin-logo-img');
   adminIcon.style.display = 'none';
